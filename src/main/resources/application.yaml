@@ -1,0 +1,6 @@
+api:
+  cert:
+    caCertificate: ""
+    clientCertificate: ""
+    privateKey: "demokey"
+    password: "demopass"
